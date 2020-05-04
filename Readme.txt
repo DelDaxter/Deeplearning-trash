@@ -3,6 +3,6 @@ Partie 2 = Détections du type de déchets
 Partie 3 = tensoflow lite entrainement avec https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/android
 
 try_1.h5 est notre model fait avec Keras
-model.lite = fichier converti
+
 lien de notre Data set
 https://drive.google.com/open?id=1OBB2XycIl3cE_CJZ2rewPT8NXjJMECoO
